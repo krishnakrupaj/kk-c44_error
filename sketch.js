@@ -12,14 +12,14 @@ var cars, car1, car2, car3, car4;
 var car1_img,car2_img,car3_img,car4_img,track,gI
 
 function preload(){
-  car1_img = loadImage("images/car1.png");
-  car2_img = loadImage("images/car2.png");
-  car3_img = loadImage("images/car3.png");
-  car4_img = loadImage("images/car4.png");
+  car1_img = loadImage("car1.png");
+  car2_img = loadImage("car2.png");
+  car3_img = loadImage("car3.png");
+  car4_img = loadImage("car4.png");
 
-  track = loadImage("images/track.jpg");
+  track = loadImage("track.jpg");
 
-  gI = loadImage("images/ground.png");
+  gI = loadImage("ground.png");
 }
 
 
